@@ -10,6 +10,6 @@ h2 {
   color: #474B94;
   font-size: 1.2em;
 }
-h2, p {
+h2, p, li {
   margin-left: 120px;
 }
